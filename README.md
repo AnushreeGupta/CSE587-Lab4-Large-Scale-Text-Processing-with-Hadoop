@@ -21,7 +21,7 @@ This problem was provided by researchers in the Classics department at UB. They 
 
 ### Activity 2: Word co-occurrence among multiple documents
 
-a. In this activity you are required to “scale up” the word co-occurrence by increasing the number of documents processed from 2 to n. Record the performance of the MR infrastructure and plot it. 
-b. From word co-occurrence that deals with just 2-grams (or two words co-occurring) increase the co-occurrence to n=3 or 3 words co-occurring. Discuss the results and plot the performance and scalability.
+* In this activity you are required to “scale up” the word co-occurrence by increasing the number of documents processed from 2 to n. Record the performance of the MR infrastructure and plot it. 
+* From word co-occurrence that deals with just 2-grams (or two words co-occurring) increase the co-occurrence to n=3 or 3 words co-occurring. Discuss the results and plot the performance and scalability.
 
 ###### *Note: The step-wise procedure is explained in the Lab4_Report.pdf*
